@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
     "lib/simple_countdown.rb",
     "simple_countdown.gemspec",
   ]
-  s.homepage = %q{http://github.com/robertodecurnex/simple_cowntdown}
+  s.homepage = %q{http://github.com/robertodecurnex/simple_countdown}
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.7}
   s.summary = %q{A simple countdown}
