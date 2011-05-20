@@ -1,0 +1,10 @@
+= simple_countdown
+
+A small and simple contdown.
+
+Usage:
+
+    require 'simple_countdown'
+    
+    SimpleCountdown.new.show("Time before Rapture", Time.local(2011,"may",21,18,0,0))
+
