@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.authors = ["Roberto Decurnex"]
   s.date = %q{2011-05-20}
   s.description = %q{A countdown for the terminal.}
-  s.email = %q{nex.development@gmail.com}
+  s.email = %q{decurnex.roberto@gmail.com}
   s.extra_rdoc_files = [
     "README.rdoc"
   ]
